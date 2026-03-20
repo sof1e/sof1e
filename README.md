@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🌱 Currently improving my skills in React, Flutter, and AI-powered apps  
 
 ## 🧠 Tech Stack
-**Languages:** Python, C#, JavaScript, TypeScript, Dart  
+**Languages:** Python, C#, JavaScript, TypeScript, Dart, Java  
 **Frameworks:** React, Node.js, Flutter, TensorFlow, Pandas  
 **Tools:** Docker, Kubernetes, AWS, PostgreSQL, MongoDB, MySQL, SQLite
 
